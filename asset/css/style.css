@@ -1,11 +1,30 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+.nav-item a {
+    width: 500;
+    color: #FF4D00;
+}
+
+#perfil h1 {
+    width: 500;
+}
+#perfil h3 {
+    width: 300;
+}
+#perfil {
+    width: 300;
+}
 
 .btn-custom {
-    background-color: #ff3000;
+    background-color: #FF4D00;
     color: #fff;
   }
 .card-text {
     height: 70px;
   }  
+
+#pie p {
+    width: 500;
+    color: #FF4D00;
+}
