@@ -6,4 +6,6 @@ body {
     background-color: #ff3000;
     color: #fff;
   }
-  
+.card-text {
+    height: 70px;
+  }  
