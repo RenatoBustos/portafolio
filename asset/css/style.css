@@ -2,23 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* #Hero-Section {
-    background-image:url(../imagenes/renato.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: left;
-} */
-/* #cabeza {
-    margin-left: 20%;
-    /* position: relative; */
-
-#cabeza img {
-    /* display: inline-block; */
-}
-
-#cabeza h1 p {
-    /* display: inline-block;
-    margin-left: 10%;
-    position: absolute;
-    margin-top: 12%; */
-}
+.btn-custom {
+    background-color: #ff3000;
+    color: #fff;
+  }
+  
