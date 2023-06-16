@@ -5,6 +5,9 @@ body {
     width: 500;
     color: #FF4D00;
 }
+.nav-link:hover {
+    color: white;
+}
 
 #perfil h1 {
     width: 500;
@@ -15,13 +18,19 @@ body {
 #perfil {
     width: 300;
 }
+.card-body h5 {
+    width: 500;
+}
+.card-body p {
+    width: 300;
+}
 
 .btn-custom {
     background-color: #FF4D00;
     color: #fff;
   }
 .card-text {
-    height: 70px;
+    height: 85px;
   }  
 
 #pie p {
